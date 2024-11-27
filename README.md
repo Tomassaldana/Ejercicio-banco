@@ -8,3 +8,22 @@ ejercicio
 
 ![image](https://github.com/user-attachments/assets/62d5ca85-e934-47cf-97fa-56aaab49c1ec)
 
+Pasando con la presentacion del trabajo para la simulacion se imagino un banco que pudiera realizar
+5 tipos diferentes de operaciones siendo estas retirar dinero, consignar dinero, transferir dinero
+a otra cuenta, visualizar el historial de operaciones y consultar saldo. Ademas de ello se tuvieron 
+en cuenta un par de situaciones adicionales para darle mas contexto al proyecto siendo que por cada
+transaccion se cobra el famoso impuesto al 4*1000 que tienen la mayoria de las cuentas en el pais y
+la posibilidad de realizar una humilde donacion a una fundacion cuando se quiera hacer algun tipo de
+movimiento bancario.
+Para realizar el ejercicio se creo una pequeña "base de datos" que contiene 10 cuentas que estan
+asociadas a un nombre (titular), a su saldo y a un numero de cuenta que sera el mismo que se debera
+ingresar en la consola para hacer uso de su cuenta y las operaciones (se destinaron nombres, numeros
+y saldos al azar para los ejemplos).
+
+Solicitud de numero de cuenta:
+
+![image](https://github.com/user-attachments/assets/a34cbcee-4db0-43e0-94a9-d887edaf7f0e)
+
+
+
+
